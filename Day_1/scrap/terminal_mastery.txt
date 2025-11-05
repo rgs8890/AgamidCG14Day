@@ -1,0 +1,6 @@
+I am mastering the terminal
+
+Never rm -r .. (delete everything in the current folder)
+
+- All using commands within the terminal -> Alias -> Easy to get back here if we are lost
+- Windows system -> might have to watch out with \ instead of /

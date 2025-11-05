@@ -1,0 +1,6 @@
+# Lessons Learnt
+1. Python is a low level programming language which is like driving an automatic car
+2. touch is used to create files, mkdir to create directories/ folders
+3. code is used to open a file
+4. code ~/.bashrc is used to create a bash file
+5. alias dev='cd /c/Users/rgs88/OneDrive/Python_14_Day' -> can write this in using unix and not windows casing and open a new terminal and call dev to take your directly to the directory
