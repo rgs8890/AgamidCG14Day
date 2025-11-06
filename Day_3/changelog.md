@@ -1,5 +1,5 @@
 # Changelog
-# [0.1.0] - YYYY-MM-DD
+# [0.1.0] - 2025-11-05
 ### Initial Version
 - Added core functionalities covered in Day 3, including lists, tuples, dictionaries, and sets.
 
@@ -13,3 +13,7 @@ This is a life saver which allows collaborates who can know what is new and what
 - v1.0.0  to v2.0.0
 - v1.0.0 to v1.1.0
 - v1.0.1 to v1.0.1
+
+# [0.2.0] - 2025-11-06
+### Added
+- exercises for tuples, dictionaries, sets and slicing lists

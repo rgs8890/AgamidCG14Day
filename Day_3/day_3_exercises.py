@@ -61,6 +61,6 @@ print(daily_products)
 desserts.remove('candy')
 print(desserts)
 
-
+# Set Operations
 intersect_items = daily_products.intersection(desserts)
 print(intersect_items)
