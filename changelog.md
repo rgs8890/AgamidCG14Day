@@ -17,3 +17,7 @@ This is a life saver which allows collaborates who can know what is new and what
 # [0.2.0] - 2025-11-06
 ### Added
 - exercises for tuples, dictionaries, sets and slicing lists
+
+# [0.3.0] - 2025-11-09
+### Added
+- exercises for loops, conditional statements, and error handling
