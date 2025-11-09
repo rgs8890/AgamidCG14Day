@@ -21,3 +21,9 @@ This is a life saver which allows collaborates who can know what is new and what
 # [0.3.0] - 2025-11-09
 ### Added
 - exercises for loops, conditional statements, and error handling
+
+# [0.4.0] - 2025-11-09
+### Added
+- Added day 5 exercises
+- ag_core.py, core.py: add functions to add, edit, list, and remove items from a grocery list
+- ag_launch.py, launch.py: add function to interact with user to add, edit, list, and remove items from a grocery list.
