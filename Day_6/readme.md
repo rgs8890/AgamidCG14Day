@@ -105,3 +105,42 @@ Key TakeAways:
 
 # Multi-Line Text -> Comments
 - Triple Quotes: ''' ''''
+
+# Git is good for tracking and using version control
+- Must be familiar with Git
+- Git branches will work and can be used as a bug fix
+- Keeps everything organised
+- Writing and using everything in a team process is a collaborative process
+- Be open to suggestions
+- Document decisions (Why these choices were made? Helps you build on work)
+- Code Style
+- Version Control
+- Writing and Reviewing
+
+# Day 6
+- Pep8 
+- Indentation
+- Line Length
+- Organising Modules
+- naming conventions
+- whitespaces
+- docstrings
+- comments
+- multi-line formatting
+- using type hints
+- avoid global variables and use constants
+
+# Code Review - How professionals use review
+- Crucial part of development
+- Preparing for review
+- Clean code principles
+- code and consistent to read
+- small focused commits
+- make it easier to check what each change is doing
+- fixed typo like login function
+- submitting too much code will make people not want to review it
+- Write a clear concise description
+- Widly accepted for writing pull requests in professional developments
+- Summary: The purpose of the PR and how useful it is
+- Testing: Explains how the changes were tested
+- Checklist: Optional Section

@@ -27,3 +27,9 @@ This is a life saver which allows collaborates who can know what is new and what
 - Added day 5 exercises
 - ag_core.py, core.py: add functions to add, edit, list, and remove items from a grocery list
 - ag_launch.py, launch.py: add function to interact with user to add, edit, list, and remove items from a grocery list.
+
+# [0.5.0] - 2025-18-09
+### Added
+- Added day 7 exercises
+- ag_core.py: improved by adding uuid values
+- ag_launch.py: seperated out functions and improved handling of remove and edit edge cases
