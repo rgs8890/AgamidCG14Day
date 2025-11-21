@@ -1,0 +1,7 @@
+carrots
+bananas
+apples
+pears
+beans
+bread
+Eggs
